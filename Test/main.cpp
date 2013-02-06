@@ -496,6 +496,7 @@ int main()
     l->logDebug(msg); 
 #endif
 
+    //github的diff功能出了bug，测试合并后diff是否正常
     system("pause");
     return 0;
 }
